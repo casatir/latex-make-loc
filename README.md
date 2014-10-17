@@ -4,7 +4,7 @@ Clone the repo using
 
     git clone --recursive https://github.com/casatir/latex-make-loc.git
 
-or if you already have cloned
+or if you already have cloned, just do
 
     git submodule update --init --recursive
 
