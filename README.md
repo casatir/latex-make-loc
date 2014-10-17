@@ -1,10 +1,10 @@
 # Local version of latex-make
 
-Clone the repos using
+Clone the repo using
 
     git clone --recursive https://github.com/casatir/latex-make-loc.git
 
-or if you already have cloned the repo
+or if you already have cloned
 
     git submodule update --init --recursive
 
